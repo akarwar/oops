@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/client-combined-3.5.3-nodeps.jar" sourcepath="/Users/waqaskhan/Downloads/selenium-2.53.0/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/httpasyncclient-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/httpcore-nio-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/java-json.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/JSON-java-master.zip"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/mashape-java-client-2.0.11.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/Other_libraries.zip"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/poi-bin-3.17-20170915.zip"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/qa-automation-master@b674e94bbfd.zip"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/selenium-java-3.5.3.zip"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/selenium-server-standalone-3.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/selenium-server-standalone-3.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/waqaskhan/Downloads/Jar Files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
